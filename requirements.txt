@@ -1,0 +1,16 @@
+# Required packages
+PyPDF2>=3.0.0
+requests>=2.28.0
+
+# Development dependencies
+pytest>=7.0.0
+black>=23.0.0
+
+# AI/ML packages (uncomment as needed)
+# langchain>=0.0.184
+# openai>=0.27.0
+# transformers>=4.30.0
+# sentence-transformers>=2.2.2
+
+# Environment variables
+python-dotenv>=0.19.0
