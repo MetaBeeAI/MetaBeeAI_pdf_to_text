@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="metabeeai_llm",
+    name="metabeeai-pdf",
     version="0.1.0",
     packages=find_packages(),
     install_requires=[
@@ -14,8 +14,8 @@ setup(
         "openai",
         "unidecode",
     ],
-    author="Your Name",
-    author_email="your.email@example.com",
-    description="MetaBeeAI LLM Pipeline for PDF processing and data extraction",
-    keywords="pdf, llm, nlp, data extraction",
+    author="Rachel Parkindon",
+    author_email="rachel.parkinson@biology.ox.ac.uk",
+    description="MetaBeeAI Pipeline for PDF processing",
+    keywords="pdf, data extraction",
 )
