@@ -1,3 +1,8 @@
+# Author: Rachel Parkinson
+# Date: 2025-04-01
+# Version: 1.0
+# Description: Split PDFs into overlapping 2-page PDFs
+
 #!/usr/bin/env python3
 import PyPDF2
 import os

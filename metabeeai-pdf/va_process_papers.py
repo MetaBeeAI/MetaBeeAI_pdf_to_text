@@ -1,3 +1,8 @@
+# Author: Rachel Parkinson
+# Date: 2025-04-01
+# Version: 1.0
+# Description: Process PDFs with Vision Agentic Document Analysis
+
 import requests
 import os
 import time

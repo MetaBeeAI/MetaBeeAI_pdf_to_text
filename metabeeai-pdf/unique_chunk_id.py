@@ -1,5 +1,8 @@
-#!/usr/bin/env python3
-# Check if each chunk_id contained in the json files (except merged.json) in each pages/ subfolder is unique
+# Author: Rachel Parkinson
+# Date: 2025-04-01
+# Version: 1.0
+
+# Description: Check if each chunk_id contained in the json files (except merged.json) in each pages/ subfolder is unique
 # If duplicates are found, print the chunk_id and the file paths
 # Results are saved to a JSON log file with summary statistics
 
